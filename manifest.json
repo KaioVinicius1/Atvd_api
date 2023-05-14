@@ -1,0 +1,29 @@
+{
+    "name": "Jogos Rockstar",
+    "short_name": "Jogos",
+    "icons": [
+        {
+          "src": "img/logo.png",
+          "sizes": "128x128",
+          "type": "image/png",
+          "purpose": "any maskable"
+        },
+      
+        {
+          "src": "img/logo.png",
+          "sizes": "256x256",
+          "type": "image/png",
+          "purpose": "any maskable"
+        },
+        {
+          "src": "img/logo.png",
+          "sizes": "512x512",
+          "type": "image/png",
+          "purpose": "any maskable"
+        }
+    ],
+    "display": "standalone",
+    "background_color": "#31506F",
+    "theme_color": "#4D5360",
+    "start_url": "index.html"
+  }
